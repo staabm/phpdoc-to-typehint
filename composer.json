@@ -14,7 +14,7 @@
     "ext-tokenizer": "*",
     "symfony/console": "^2.7.0",
     "symfony/finder": "^2.7.0",
-    "phpdocumentor/reflection": "^3.0",
+    "phpdocumentor/reflection": "^2.0",
     "phpdocumentor/reflection-common": "^1.0",
     "phpdocumentor/reflection-docblock": "^3.0",
     "sebastian/diff": "^1.3"
